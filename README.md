@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 I'm Marvin, a freelance full-stack web developer and IT generalist based in Munich. I've built some fun things like [Warcraft-Toys.com](https://www.warcraft-toys.com), the [ngx-dynamic-hooks](https://angular-dynamic-hooks.com) library or [a personal motorcycling blog](https://www.in-fremden-gefilden.de) that I run together with my wife.
 
